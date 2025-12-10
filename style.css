@@ -4,7 +4,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Jolly Lodger", system-ui;
+    font-family: "Georgia (serif)", system-ui;
 }
 
 html {
@@ -299,4 +299,5 @@ input[type="range"] {
     .opened img {
         width: 100%;
     }
+
 }
