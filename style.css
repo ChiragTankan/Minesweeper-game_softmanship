@@ -7,6 +7,9 @@
     font-family: "Georgia (serif)", system-ui;
 }
 
+.name-game{
+    font-family: "Jolly Lodger",system-ui;
+}
 html {
     font-size: 62.5%;
     overflow-x: hidden;
@@ -301,3 +304,4 @@ input[type="range"] {
     }
 
 }
+
