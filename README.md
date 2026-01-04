@@ -1,4 +1,4 @@
-# 🚩 Minesweeper Game by Team KSB48
+# 🚩 Minesweeper Game Project for Softmanship Hackathon
 
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![Platform](https://img.shields.io/badge/Platform-Web-blue)
@@ -8,7 +8,7 @@ A modern, web-based implementation of the classic **Minesweeper** game. This pro
 
 ## 🔗 Play Live
 
-### [👉 Click Here to Play the Game](https://chiragtankan.github.io/Minesweeper-game_by_KSB48/)
+### [👉 Click Here to Play the Game](https://chiragtankan.github.io/Minesweeper-game_Softmanship/)
 
 ---
 
@@ -22,16 +22,7 @@ A modern, web-based implementation of the classic **Minesweeper** game. This pro
 |:---:|
 | <img src="https://github.com/user-attachments/assets/66374183-545b-44f5-a6fe-ffdac686c405" width="400"> |
 
----
 
-## 👥 Team Members (KSB48)
-
-This project was collaboratively developed by:
-
-*   **Chirag Tankan** - *JS-Developer & Maintainer*
-*   **Manvi Singh** - *frontend-developer*
-
----
 
 ## 🌟 Features
 
@@ -53,17 +44,18 @@ If you want to run this project on your own machine without using the live link:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/ChiragTankan/Minesweeper-game_by_KSB48.git
+    git clone https://github.com/ChiragTankan/Minesweeper-game_Softmanship.git
     ```
 2.  **Navigate to the folder:**
     ```bash
-    cd Minesweeper-game_by_KSB48
+    cd Minesweeper-game_Softmanship
     ```
 3.  **Run the Game:**
     Simply open the `index.html` file in any web browser (Chrome, Edge, Firefox).
 
 ---
-*Made with ❤️ by Team KSB48*
+*Made with ❤️ by Chirag Tankan*
+
 
 
 
