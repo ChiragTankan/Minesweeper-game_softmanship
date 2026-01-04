@@ -8,7 +8,7 @@ A modern, web-based implementation of the classic **Minesweeper** game. This pro
 
 ## 🔗 Play Live
 
-### [👉 Click Here to Play the Game](https://chiragtankan.github.io/Minesweeper-game_Softmanship/)
+### [👉 Click Here to Play the Game](https://chiragtankan.github.io/Minesweeper-game_softmanship/)
 
 ---
 
@@ -55,6 +55,7 @@ If you want to run this project on your own machine without using the live link:
 
 ---
 *Made with ❤️ by Chirag Tankan*
+
 
 
 
